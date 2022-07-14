@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/remainder-App/static/js/main.f8c88f2d.js",
+    "index.html": "/remainder-App/index.html",
+    "main.f8c88f2d.js.map": "/remainder-App/static/js/main.f8c88f2d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f8c88f2d.js"
+  ]
+}
